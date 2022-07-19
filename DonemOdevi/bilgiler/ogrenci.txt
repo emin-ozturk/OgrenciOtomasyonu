@@ -1,0 +1,15 @@
+200309037
+Ahmet Yilmaz
+Bilgisayar Muhendisligi
+3
+0
+200309045
+Zeynep Gunes
+Yazilim Muhendisligi
+2
+0
+200309026
+Emin Ozturk
+Yazilim Muhendisligi
+2
+3.35714

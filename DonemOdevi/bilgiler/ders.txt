@@ -1,0 +1,23 @@
+MAT1
+Matematik-1
+95
+90
+80
+75
+80
+BB
+3
+4
+DIF
+Diferansiyel Denklemler
+100
+95
+90
+85
+89
+BA
+3
+3
+@
+@
+@
